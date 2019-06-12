@@ -12,6 +12,10 @@
 
 **Успешно освоившим программу всего тренинга будет предоставлена возможность начать карьеру в компании EPAM или продолжить обучение в EPAM .NET Lab.**
 
+**ПЕРИОДИЧНОСТЬ ЗАНЯТИЙ** - 3 раза в неделю продолжительностью 4 академических часа
+
+**МЕСТО ПРОВЕДЕНИЯ ЗАНЯТИЙ** - ул. Купревича, 1/5, учебный класс .NET Lab
+
 ### <a name="content1"></a> Content 
    - Visual Studio. [Visual Studio IDE documentation](https://docs.microsoft.com/en-us/visualstudio/ide/?view=vs-2017)
       - Project types in VS. 
