@@ -1,4 +1,4 @@
-# Padawans Tasks Info
+# Tasks
 
 - Implement the algorithm for finding the GCD of two integers. The integers can be large, so you need to find a clever solution.
 
