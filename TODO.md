@@ -10,6 +10,6 @@
 
 - [VS Community installation](https://visualstudio.microsoft.com/ru/vs/community/)
 - [VS documentation](https://docs.microsoft.com/en-us/visualstudio/ide/?view=vs-2017)
-- [Git on-line course](http://try.github.io)
+- [Resources to learn Git](http://try.github.io)
 - [Git on-line video](https://www.youtube.com/watch?v=ankvwnNJFPA&feature=youtu.be)
 - [Git on-line ( на русском, курс EPAM) Learn.by](https://learn.by/courses/course-v1:EPAM+DTO+ext1/courseware/8a58c84fd1d2474b8f69a15171f524ae/59ea97521eb949c2a43dc360eb062fff/1)
