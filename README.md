@@ -16,6 +16,8 @@
 
 **МЕСТО ПРОВЕДЕНИЯ ЗАНЯТИЙ** - ул. Купревича, 1/5, учебный класс .NET Lab
 
+**[ТЕХНИЧЕСКОЕ ЗАДАНИЕ](https://github.com/EPM-RD-NETLAB/ASP.NET-Development.-Summer-2019/blob/master/TODO.md)**
+
 ### <a name="content1"></a> Content 
    - Visual Studio. [Visual Studio IDE documentation](https://docs.microsoft.com/en-us/visualstudio/ide/?view=vs-2017)
       - Project types in VS. 
