@@ -9,7 +9,6 @@
 Материалы в помощь
 
 - [VS Community installation](https://visualstudio.microsoft.com/ru/vs/community/)
-- [How to install VS Community](https://mva.microsoft.com/en-US/training-courses/c-fundamentals-for-absolute-beginners-16169?l=4RDmRvOZD_5401937557#)
 - [VS documentation](https://docs.microsoft.com/en-us/visualstudio/ide/?view=vs-2017)
 - [Git on-line course](http://try.github.io)
 - [Git on-line video](https://www.youtube.com/watch?v=ankvwnNJFPA&feature=youtu.be)
