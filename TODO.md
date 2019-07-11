@@ -2,7 +2,7 @@
 
 - Установить Visual Studio Community
 - Создать аккаунт в GitHub
-- Создать приватный репозиторий в GitHub с названием **ASP.NET Developmet. Enrollment Interview. Last Name** (Last Name - фамилия согласно регистрации на training.by). Добавить в коллабораторы **AnzhelikaKravchuk**
+- Создать приватный репозиторий в GitHub с названием **ASP.NET Development. Enrollment Interview. Last Name** (Last Name - фамилия согласно регистрации на training.by). Добавить в коллабораторы **AnzhelikaKravchuk**
 - Выполнить [следующие задания](https://github.com/EPM-RD-NETLAB/ASP.NET-Development.-Summer-2019/blob/master/Tasks.md)
 - Поместить выполненные задания в репозиторий **ASP.NET Developmet. Enrollment Interview. Last Name**
 
